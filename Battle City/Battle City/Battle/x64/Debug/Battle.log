@@ -1,0 +1,13 @@
+﻿  Bloque.cpp
+  Mapa.cpp
+  Controladora.cpp
+  Enemigo.cpp
+  Juego.cpp
+  Jugador.cpp
+  Powerup.cpp
+  Tanque.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\Users\install\Desktop\PROYECTO\Yoel_RiosCondori_Practica_4.EXT\Battle City\Tanque.cpp(1,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  Generando código...
+  Bloque.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Battle.vcxproj -> C:\Users\install\Desktop\PROYECTO\Yoel_RiosCondori_Practica_4.EXT\Battle City\x64\Debug\Battle.exe

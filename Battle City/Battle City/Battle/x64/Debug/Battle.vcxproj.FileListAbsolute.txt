@@ -1,0 +1,12 @@
+C:\Users\install\Desktop\PROYECTO\Practica 3- Yoel_Rios\Practica 3- Yoel_Rios\Battle\x64\Debug\Battle.vcxproj.AssemblyReference.cache
+C:\Users\install\Desktop\PROYECTO\Practica 3- Yoel_Rios\Practica 3- Yoel_Rios\Battle\x64\Debug\Bomberman.Juego.resources
+C:\Users\install\Desktop\PROYECTO\Practica 3- Yoel_Rios\Practica 3- Yoel_Rios\Battle\x64\Debug\Battle.vcxproj.GenerateResource.cache
+C:\Users\install\Desktop\PROYECTO\Battle City\Battle City\Battle\x64\Debug\Battle.vcxproj.AssemblyReference.cache
+C:\Users\install\Desktop\PROYECTO\Battle City\Battle City\Battle\x64\Debug\Bomberman.Juego.resources
+C:\Users\install\Desktop\PROYECTO\Battle City\Battle City\Battle\x64\Debug\Battle.vcxproj.GenerateResource.cache
+C:\Users\install\Desktop\PROYECTO\Battle City.v1.0\Battle City\Battle\x64\Debug\Battle.vcxproj.AssemblyReference.cache
+C:\Users\install\Desktop\PROYECTO\Battle City.v1.0\Battle City\Battle\x64\Debug\Bomberman.Juego.resources
+C:\Users\install\Desktop\PROYECTO\Battle City.v1.0\Battle City\Battle\x64\Debug\Battle.vcxproj.GenerateResource.cache
+C:\Users\install\Desktop\PROYECTO\Yoel_RiosCondori_Practica_4.EXT\Battle City\Battle\x64\Debug\Battle.vcxproj.AssemblyReference.cache
+C:\Users\install\Desktop\PROYECTO\Yoel_RiosCondori_Practica_4.EXT\Battle City\Battle\x64\Debug\Bomberman.Juego.resources
+C:\Users\install\Desktop\PROYECTO\Yoel_RiosCondori_Practica_4.EXT\Battle City\Battle\x64\Debug\Battle.vcxproj.GenerateResource.cache
